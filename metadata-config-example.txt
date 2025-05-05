@@ -1,0 +1,50 @@
+# metadata-config.txt
+# Format: KEY=VALUE
+# Lines starting with # are comments
+
+# Basic metadata
+AUTHOR=Name Lastname
+CREATOR=Name Lastname
+CREATOR_ORGANIZATION=Company Inc
+COPYRIGHT=Copyright 2025 Name Company
+DESCRIPTION=Description of..
+COMMENT=Comment here
+KEYWORDS=keyword1, keyword2, ...
+SOFTWARE=Processed with exiftool
+URL=https://your-website.com
+WEB_STATEMENT=https://your-other-website.com
+CATEGORY=Pro (accepts three characters only)
+SUPPLEMENTAL_CATEGORIES=Professional Profile
+TITLE=NameLstname Profile Picture
+COLOR_SPACE=sRGB
+
+# IPTC metadata
+OBJECT_NAME=Name Lastname Profile Picture
+BY_LINE=Name Lastname
+BY_LINE_TITLE=CEO
+CREDIT=Comany Inc
+SOURCE=Company Inc
+CONTACT=name@your-email.com
+CITY=San Francisco
+PROVINCE_STATE=City of ..
+COUNTRY=USA
+TRANSMISSION_REFERENCE=UNIQUE-REF-CODE
+
+# XMP metadata
+RIGHTS=Copyright 2025 Name Lastnamed For personal use only.
+SUBJECT=Name Lastname, Your company, Founder, developer, seo, technology, AI
+CREATOR_PHONE=+1-555-55-55-
+CREATOR_EMAIL=name@your-email.com
+CREATOR_URL=https://your-website.com
+LOCATION_CREATED=San Francisco
+LOCATION_SHOWN=Studio
+EVENT=Photoshoot 2025
+IDENTIFIER=UNIQ-REF-IDENTIFIER (up to 32 chars)
+
+# GPS metadata (optional, uncomment if needed)
+# GPS_LATITUDE=37.7749 N
+# GPS_LONGITUDE=122.4194 W
+# GPS_ALTITUDE=10.0
+# GPS_TIMESTAMP=12:00:00Z
+# GPS_IMG_DIRECTION=180.0
+
