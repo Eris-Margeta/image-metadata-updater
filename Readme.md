@@ -1,4 +1,4 @@
-# Image Metadata Updater
+# Image Metadata Updater [DEPRECATED]
 (for mac)
 
 
