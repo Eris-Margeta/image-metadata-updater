@@ -1,6 +1,8 @@
 # Image Metadata Updater [DEPRECATED]
 (for mac)
 
+Now moved to a unified tools monorepo for easier management and discovery:
+https://github.com/Eris-Margeta/tools
 
 This Bash script (image-metadata-updater.sh) processes JPEG and PNG images to:
 
